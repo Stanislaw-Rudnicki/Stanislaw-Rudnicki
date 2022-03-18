@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Stanislav, and I'm a switcher.<br>
+From 2019 to 2022, I studied at the [STEP Computer Academy](https://itstep.org/en), majoring in Software Development.
+Now I live in Spain, and I'm looking for a job as a Junior software developer.
+Before that, I worked for 12 years as a translator of Polish - Ukrainian - Russian languages. And also as a teacher of the Polish language.
+
