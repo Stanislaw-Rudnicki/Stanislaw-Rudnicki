@@ -24,6 +24,10 @@ And also as a teacher of the Polish language.
 
 ### 🛠️ Programming Languages, Development technologies and Frameworks
 
+### C#
+
+WPF, Windows Forms, 
+
 ### 👩🏼‍🎓 Education
 
 ### 💬 Languages
