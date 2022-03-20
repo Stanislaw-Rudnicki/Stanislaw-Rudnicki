@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Stanislav, and I'm a switcher.<br>
 From 2019 to 2022, I studied at the [STEP Computer Academy](https://itstep.org/en), majoring in Software Development.<br>
 Because of the war in Ukraine, I had to move to Marbella, Spain.<br>
-I'm looking for a job as a Junior software developer.<br>
+I'm looking for a job as a Junior Software Developer.<br>
 Before that, I worked for 12 years as a translator of Polish - Ukrainian - Russian languages.<br>
 And also as a teacher of the Polish language.
 
@@ -35,7 +35,7 @@ __WPF__: [The Multiplication Table Game](https://github.com/Stanislaw-Rudnicki/W
 
 __Windows Forms__: [Fifteen Puzzle Game](https://github.com/Stanislaw-Rudnicki/Windows-Forms/blob/master/Wf05_1_t01_%D0%9F%D1%8F%D1%82%D0%BD%D0%B0%D1%88%D0%BA%D0%B8), [Game of Life](https://github.com/Stanislaw-Rudnicki/System_Programming/blob/main/Sp05_1_01_Game_of_Life)
 
-__Web Api__: [eCommerce Bots for Telegram](https://t.me/IncolaBot)
+__Web Api__: [eCommerce Bot for Telegram](https://t.me/IncolaBot)
 
 
 ### 👩🏼‍🎓 Education
