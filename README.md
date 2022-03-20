@@ -26,9 +26,20 @@ And also as a teacher of the Polish language.
 
 ### C#
 
-WPF, Windows Forms, 
+WPF, Windows Forms, ASP.NET MVC, Web API, ADO.NET, Entity Framework
+
+You can find code examples in my github account.
+
+#### WPF
+
+[The Multiplication Table game](https://github.com/Stanislaw-Rudnicki/WPF/blob/master/WPF02_1_t01_%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%83%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
+
+[Fifteen Puzzle Game](https://github.com/Stanislaw-Rudnicki/WPF/blob/master/WPF04_1_t01_%D0%9F%D1%8F%D1%82%D0%BD%D0%B0%D1%88%D0%BA%D0%B8)
+
 
 ### 👩🏼‍🎓 Education
+
+
 
 ### 💬 Languages
 English: Native
