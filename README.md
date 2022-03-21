@@ -35,10 +35,15 @@ WPF: [The Multiplication Table Game](https://github.com/Stanislaw-Rudnicki/WPF/b
 
 Windows Forms: [Fifteen Puzzle Game](https://github.com/Stanislaw-Rudnicki/Windows-Forms/blob/master/Wf05_1_t01_%D0%9F%D1%8F%D1%82%D0%BD%D0%B0%D1%88%D0%BA%D0%B8), [Game of Life](https://github.com/Stanislaw-Rudnicki/System_Programming/blob/main/Sp05_1_01_Game_of_Life)
 
-Web Api: [eCommerce Bot for Telegram](https://t.me/IncolaBot)
+Web API: [eCommerce Bot for Telegram](https://t.me/IncolaBot)
 
 #### JavaScript, HTML5, CSS
 
+Vue.js, React, jQuery, SCSS
+
+Functioning websites: [sciezkaogrodowa.pl](https://sciezkaogrodowa.pl), [mozberd.com.ua](https://mozberd.com.ua), [60x60.pl](https://60x60.pl)
+
+#### Kotlin, Java
 
 
 ### 👩🏼‍🎓 Education
