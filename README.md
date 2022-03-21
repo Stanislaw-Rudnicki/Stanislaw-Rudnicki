@@ -45,6 +45,19 @@ Fully-functioning websites: [sciezkaogrodowa.pl](https://sciezkaogrodowa.pl), [m
 
 #### Kotlin, Java
 
+Android software development, Sping, Hibernate
+
+You can find code examples in my github account:
+
+Development of the User Interface for the Android client-server app [Messenger](https://github.com/Stanislaw-Rudnicki/Android)
+
+#### Databases
+
+Microsoft SQL Server, MySQL, MongoDB
+
+#### Microsoft Azure
+
+
 
 ### 👩🏼‍🎓 Education
 
