@@ -2,7 +2,7 @@
 
 *Software engineer based in Marbella, Spain*
 
-Email / LinkedIn / GitHub / Telegram
+[stanislaw.rudnicki@gmail.com](mailto:stanislaw.rudnicki@gmail.com) / [LinkedIn](https://www.linkedin.com/in/stanislaw-rudnicki-22868584/) / [Telegram](https://t.me/Rudnicki)
 
 ----
 
@@ -47,7 +47,7 @@ Web API: [eCommerce Bot for Telegram](https://t.me/IncolaBot)
 
 #### JavaScript, HTML5, CSS
 
-Vue.js, React, jQuery, SCSS
+Vue.js, React, jQuery, SCSS, TypeScript
 
 Fully-functioning websites: [sciezkaogrodowa.pl](https://sciezkaogrodowa.pl), [mozberd.com.ua](https://mozberd.com.ua), [60x60.pl](https://60x60.pl)
 
@@ -79,3 +79,5 @@ Microsoft SQL Server, MySQL, MongoDB
 🇵🇱 Polish: Proficient<br>
 🇺🇸 English: Intermediate<br>
 🇪🇸 Spanish: Elementary<br>
+
+#### 🚗 Category B driving license
