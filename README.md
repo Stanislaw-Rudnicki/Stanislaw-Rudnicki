@@ -41,7 +41,7 @@ Web API: [eCommerce Bot for Telegram](https://t.me/IncolaBot)
 
 Vue.js, React, jQuery, SCSS
 
-Functioning websites: [sciezkaogrodowa.pl](https://sciezkaogrodowa.pl), [mozberd.com.ua](https://mozberd.com.ua), [60x60.pl](https://60x60.pl)
+Fully-functioning websites: [sciezkaogrodowa.pl](https://sciezkaogrodowa.pl), [mozberd.com.ua](https://mozberd.com.ua), [60x60.pl](https://60x60.pl)
 
 #### Kotlin, Java
 
