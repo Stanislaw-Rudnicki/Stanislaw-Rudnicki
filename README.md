@@ -1,4 +1,10 @@
-### Hi there 👋
+### Stanislaw Rudnicki
+
+*Software engineer based in Marbella, Spain*
+
+Email / LinkedIn / GitHub / Telegram
+
+----
 
 <!--
 **Stanislaw-Rudnicki/Stanislaw-Rudnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +27,8 @@ Because of the war in Ukraine, I had to move to Marbella, Spain.<br>
 I'm looking for a job as a Junior Software Developer.<br>
 Before that, I worked for 12 years as a translator of Polish - Ukrainian - Russian languages.<br>
 And also as a teacher of the Polish language.
+
+### 
 
 ### 🛠️ Programming Languages, Development technologies and Frameworks
 
