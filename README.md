@@ -57,12 +57,17 @@ Microsoft SQL Server, MySQL, MongoDB
 
 #### Microsoft Azure
 
-
+[My Trophies and Badges](https://docs.microsoft.com/en-us/users/31099967/)
 
 ### 👩🏼‍🎓 Education
 
+2019—2022 — [STEP IT Academy](https://itstep.org/en), majoring in Software Development
 
+2002—2008 — [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), Faculty of Management, master's degree
 
 ### 💬 Languages
-English: Native
-German: A2.2
+🇺🇦 Ukrainian: Native<br>
+🇷🇺 Russian: Native<br>
+🇵🇱 Polish: Proficient<br>
+🇺🇸 English: Intermediate<br>
+🇪🇸 Spanish: Elementary<br>
