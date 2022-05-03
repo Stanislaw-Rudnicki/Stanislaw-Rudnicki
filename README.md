@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Stanislav, and I'm a switcher.<br>
+My name is Stanislaw, and I'm a switcher.<br>
 From 2019 to 2022, I studied at the [STEP IT Academy](https://itstep.org/en), majoring in Software Development.<br>
 Because of the war in Ukraine, I had to move to Marbella, Spain.<br>
 I'm looking for a job as a Junior Software Developer.<br>
