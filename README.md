@@ -1,6 +1,6 @@
 ### Stanislaw Rudnicki
 
-*Software engineer based in Marbella, Spain*
+*Software engineer based in Wroclaw, Poland*
 
 [stanislaw.rudnicki@gmail.com](mailto:stanislaw.rudnicki@gmail.com) / [LinkedIn](https://www.linkedin.com/in/stanislaw-rudnicki-22868584/) / [Telegram](https://t.me/Rudnicki)
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 My name is Stanislaw, and I'm a switcher.<br>
 From 2019 to 2022, I studied at the [STEP IT Academy](https://itstep.org/en), majoring in Software Development.<br>
-Because of the war in Ukraine, I had to move to Marbella, Spain.<br>
+Because of the war in Ukraine, I had to move to Wroclaw, Poland.<br>
 I'm looking for a job as a Junior Software Developer.<br>
 Before that, I worked for 12 years as a translator of Polish - Ukrainian - Russian languages.<br>
 And also as a teacher of the Polish language.
@@ -45,7 +45,7 @@ Windows Forms: [Fifteen Puzzle Game](https://github.com/Stanislaw-Rudnicki/Windo
 
 Web API: [eCommerce Bot for Telegram](https://t.me/IncolaBot)
 
-#### JavaScript, HTML5, CSS
+#### JavaScript, PHP, HTML5, CSS
 
 Vue.js, React, jQuery, SCSS, TypeScript
 
