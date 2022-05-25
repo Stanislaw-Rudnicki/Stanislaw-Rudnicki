@@ -2,7 +2,7 @@
 
 *Software engineer based in Wroclaw, Poland*
 
-[stanislaw.rudnicki@gmail.com](mailto:stanislaw.rudnicki@gmail.com) / [LinkedIn](https://www.linkedin.com/in/stanislaw-rudnicki-22868584/) / [Telegram](https://t.me/Rudnicki)
+[stanislaw.rudnicki@gmail.com](mailto:stanislaw.rudnicki@gmail.com) / [LinkedIn](https://www.linkedin.com/in/stanislaw-rudnicki/) / [Telegram](https://t.me/Rudnicki)
 
 ----
 
