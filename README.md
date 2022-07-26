@@ -1,6 +1,6 @@
 ### Stanislaw Rudnicki
 
-*Software engineer based in Wroclaw, Poland*
+*Software engineer based in Ukraine*
 
 [stanislaw.rudnicki@gmail.com](mailto:stanislaw.rudnicki@gmail.com) / [LinkedIn](https://www.linkedin.com/in/stanislaw-rudnicki/) / [Telegram](https://t.me/Rudnicki)
 
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 My name is Stanislaw, and I'm a switcher.<br>
 From 2019 to 2022, I studied at the [STEP IT Academy](https://itstep.org/en), majoring in Software Development.<br>
-Because of the war in Ukraine, I had to move to Wroclaw, Poland.<br>
 I'm looking for a job as a Junior Software Developer.<br>
 Before that, I worked for 12 years as a translator of Polish - Ukrainian - Russian languages.<br>
 And also as a teacher of the Polish language.
