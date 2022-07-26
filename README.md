@@ -1,6 +1,6 @@
 ### Stanislaw Rudnicki
 
-*Software engineer based in Ukraine*
+*Software engineer based in Zhytomyr, Ukraine*
 
 [stanislaw.rudnicki@gmail.com](mailto:stanislaw.rudnicki@gmail.com) / [LinkedIn](https://www.linkedin.com/in/stanislaw-rudnicki/) / [Telegram](https://t.me/Rudnicki)
 
