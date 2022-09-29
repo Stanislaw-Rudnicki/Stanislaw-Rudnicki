@@ -29,6 +29,11 @@ And also as a teacher of the Polish language.
 
 ### 
 
+### 💼 Commercial experience
+Telegram Merchant Bot hosted on Microsoft Azure: [https://t.me/IncolaBot](https://t.me/IncolaBot)<br>
+Newspaper website: [https://mozberd.com.ua](https://mozberd.com.ua),<br>
+Landing page: [https://sciezkaogrodowa.pl](https://sciezkaogrodowa.pl)
+
 ### 🛠️ Programming Languages, Development technologies and Frameworks
 
 #### C#
@@ -42,13 +47,17 @@ WPF: [The Multiplication Table Game](https://github.com/Stanislaw-Rudnicki/WPF/b
 
 Windows Forms: [Fifteen Puzzle Game](https://github.com/Stanislaw-Rudnicki/Windows-Forms/blob/master/Wf05_1_t01_%D0%9F%D1%8F%D1%82%D0%BD%D0%B0%D1%88%D0%BA%D0%B8), [Game of Life](https://github.com/Stanislaw-Rudnicki/System_Programming/blob/main/Sp05_1_01_Game_of_Life)
 
-Web API: [eCommerce Bot for Telegram](https://t.me/IncolaBot)
+Web API: [Telegram Merchant Bot](https://t.me/IncolaBot)
 
-#### JavaScript, PHP, HTML5, CSS
+#### HTML5, CSS, JavaScript
 
 Vue.js, React, jQuery, SCSS, TypeScript
 
 Fully-functioning websites: [sciezkaogrodowa.pl](https://sciezkaogrodowa.pl), [mozberd.com.ua](https://mozberd.com.ua), [60x60.pl](https://60x60.pl)
+
+#### Python
+
+Flask, FastAPI, SQLAlchemy
 
 #### Kotlin, Java
 
