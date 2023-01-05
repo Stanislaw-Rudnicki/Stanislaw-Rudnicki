@@ -23,13 +23,15 @@ Here are some ideas to get you started:
 
 My name is Stanislaw, and I'm a switcher.<br>
 From 2019 to 2022, I studied at the [STEP IT Academy](https://itstep.org/en), majoring in Software Development.<br>
-I'm looking for a job as a Junior Software Developer.<br>
 Before that, I worked for 12 years as a translator of Polish - Ukrainian - Russian languages.<br>
 And also as a teacher of the Polish language.
 
 ### 
 
 ### 💼 Commercial experience
+From 11.2022 - Junior .NET Developer at Byteant, Lviv
+
+Previous freelance projects:
 Telegram Merchant Bot hosted on Microsoft Azure: [https://t.me/IncolaBot](https://t.me/IncolaBot)<br>
 Newspaper website: [https://mozberd.com.ua](https://mozberd.com.ua),<br>
 Landing page: [https://sciezkaogrodowa.pl](https://sciezkaogrodowa.pl)
@@ -38,7 +40,7 @@ Landing page: [https://sciezkaogrodowa.pl](https://sciezkaogrodowa.pl)
 
 #### C#
 
-WPF, Windows Forms, ASP.NET MVC, Web API, ADO.NET, Entity Framework
+WPF, Windows Forms, ASP.NET MVC, Web API, ADO.NET, Entity Framework, Umbraco CMS
 
 You can find code examples in my github account:
 
@@ -82,10 +84,6 @@ Microsoft SQL Server, MySQL, MongoDB
 2002—2008 — [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), Faculty of Management, master's degree
 
 ### 💬 Languages
-🇺🇦 Ukrainian: Native<br>
-🇷🇺 Russian: Native<br>
-🇵🇱 Polish: Proficient<br>
-🇺🇸 English: Intermediate<br>
-🇪🇸 Spanish: Elementary<br>
+🇺🇸 English: Intermediate, 🇺🇦 Ukrainian: Native, 🇷🇺 Russian: Native, 🇵🇱 Polish: Proficient, 🇪🇸 Spanish: Elementary
 
 #### 🚗 Category B driving license
