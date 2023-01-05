@@ -29,7 +29,7 @@ And also as a teacher of the Polish language.
 ### 
 
 ### 💼 Commercial experience
-From 11.2022 - Junior .NET Developer at ByteAnt, Lviv
+From 11.2022 - Junior .NET Developer at [ByteAnt](https://www.byteant.com), Lviv
 
 Previous freelance projects:
 Telegram Merchant Bot hosted on Microsoft Azure: [https://t.me/IncolaBot](https://t.me/IncolaBot)<br>
