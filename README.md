@@ -21,15 +21,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Stanislaw, and I'm a switcher.<br>
+My name is Stanislaw, and I'm a career switcher.<br>
 From 2019 to 2022, I studied at the [STEP IT Academy](https://itstep.org/en), majoring in Software Development.<br>
+Since November 2022, I have been working as a Strong Junior Full Stack .NET Developer at [ByteAnt](https://www.byteant.com) in Lviv.<br>
 Before that, I worked for 12 years as a translator of Polish - Ukrainian - Russian languages.<br>
 And also as a teacher of the Polish language.
 
 ### 
 
 ### 💼 Commercial experience
-From 11.2022 - Junior .NET Developer at [ByteAnt](https://www.byteant.com), Lviv
+From 11.2022 - Strong Junior Full Stack .NET Developer at [ByteAnt](https://www.byteant.com), Lviv
 
 Previous freelance projects:<br>
 Telegram Merchant Bot hosted on Microsoft Azure: [https://t.me/IncolaBot](https://t.me/IncolaBot)<br>
