@@ -55,7 +55,7 @@ Web API: [Telegram Merchant Bot](https://t.me/IncolaBot)
 
 #### HTML5, CSS, JavaScript
 
-Vue.js, React, jQuery, SCSS, TypeScript
+AngularJS, jQuery, SCSS, TypeScript
 
 Fully-functioning websites: [sciezkaogrodowa.pl](https://sciezkaogrodowa.pl), [mozberd.com.ua](https://mozberd.com.ua), [60x60.pl](https://60x60.pl)
 
