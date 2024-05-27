@@ -41,7 +41,7 @@ Landing page: [https://sciezkaogrodowa.pl](https://sciezkaogrodowa.pl)
 
 #### C#
 
-Extensive experience with **Umbraco** CMS!
+Extensive experience with **Umbraco** CMS!<br>
 WPF, Windows Forms, ASP.NET MVC, Web API, ADO.NET, Entity Framework.
 
 You can find code examples in my github account:
